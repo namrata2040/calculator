@@ -1,2 +1,2 @@
 # calculator
-this program is made with java language, here i used switch and cases
+this program is made with java language, here i used switch case
